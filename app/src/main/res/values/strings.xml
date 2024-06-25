@@ -1,0 +1,17 @@
+<resources>
+    <string name="Login_krisa">Login UI Basic</string>
+    <string name="email_label">Email:</string>
+    <string name="password_label">Password:</string>
+    <string name="gender_label">Gender:</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="gender_hint">Spinner with Gender Items here...</string>
+    <string name="submit_button">Submit</string>
+    <string name="toast_message">Form Submitted</string>
+    <string-array name="gender_items">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>
